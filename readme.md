@@ -2,6 +2,8 @@
 
 Loopstudios landing page from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw)
 
+Live Demo: https://loopstudios-flax.vercel.app/
+
 ## Usage
 
 Install dependencies
